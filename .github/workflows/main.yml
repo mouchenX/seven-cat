@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       novel_input:
-        description: '小说ID或URL (从七猫小说页面获取)'
+        description: '1768419'
         required: true
       output_dir:
         description: '输出目录 (默认为output)'
